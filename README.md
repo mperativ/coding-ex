@@ -10,8 +10,8 @@ While you could accomplish some of these tasks using libraries like Pandas or Re
 
 There are two files to be downloaded and transformed:
 
- - https://pbryan.github.io/exercise/companies.csv
- - https://pbryan.github.io/exercise/opportunities.csv
+ - companies.csv
+ - opportunities.csv
 
 The `companies` schema:
 ```
