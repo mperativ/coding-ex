@@ -8,10 +8,10 @@ While you could accomplish some of these tasks using libraries like Pandas or Re
 
 ### 1. Read CSV files via HTTP and write as JSON
 
-There are two files to be downloaded and transformed:
+There are two files to be downloaded and transformed (please do so via their actual URLs:
 
- - companies.csv
- - opportunities.csv
+ - [companies.csv](https://github.com/mperativ/coding-ex/blob/dev/companies.csv)
+ - [opportunities.csv](https://github.com/mperativ/coding-ex/blob/dev/opportunities.csv)
 
 The `companies` schema:
 ```
